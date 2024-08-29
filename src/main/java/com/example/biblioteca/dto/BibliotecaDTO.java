@@ -3,9 +3,6 @@ package com.example.biblioteca.dto;
 import com.example.biblioteca.enums.Categoria;
 import lombok.*;
 
-import javax.persistence.Column;
-import javax.persistence.EnumType;
-import javax.persistence.Enumerated;
 import java.util.Objects;
 import java.util.UUID;
 

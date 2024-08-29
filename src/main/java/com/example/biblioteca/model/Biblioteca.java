@@ -1,9 +1,9 @@
 package com.example.biblioteca.model;
 
 import com.example.biblioteca.enums.Categoria;
+import jakarta.persistence.*;
 import lombok.*;
 
-import javax.persistence.*;
 import java.io.Serializable;
 import java.util.UUID;
 
